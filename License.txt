@@ -1,0 +1,51 @@
+/*
+Template Name: Rainy
+File: Licence
+Author: Yahoo Baba
+Author URL: https://www.yahoobaba.net
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+*/
+
+COPYRIGHT INFO & CREDIT LINKS
+-----------------------------
+
+* Free Templates on Yahoo Baba are free to use for both commercial and non-commercial, but you have provide a back link to yahoobaba.net which is already included in footer Powered by Yahoo Baba don't remove it.
+
+The default footer link may be changed to:
+
+    Powered by Yahoo Baba
+    Powered by <a href="https://www.yahoobaba.net/">Yahoo Baba</a>
+
+    Code by Yahoo Baba
+    Code by <a href="https://www.yahoobaba.net/">Yahoo Baba</a>
+
+    Design by Yahoo Baba
+    Design by <a href="https://www.yahoobaba.net/">Yahoo Baba</a>
+
+    Thanks to Yahoo Baba
+    Thanks to <a href="https://www.yahoobaba.net/">Yahoo Baba</a>
+
+For companies or individuals that wish to add their information to the template footer please feel free to modify the link as such:
+
+    Website by YOURDETAILS & Yahoo Baba
+    Website by <a href="YOURURL">YOURDETAILS</a> & <a href="https://www.yahoobaba.net/">Yahoo Baba</a></p>
+
+* Yahoo Baba now DOES NOT offer paid link removals or paid copyright removals but soon we will offer this service.
+
+* You can not offer our templates for re-distribution of any kind without prior written consent from us.
+
+* You can not claim intellectual property rights or exclusive ownership to any of our templates, modified or unmodified. All templates are the property of Yahoo Baba.
+
+* Credit links for third party CSS & JavaScript files which are used in template are on template page. 
+	
+* Yahoo Baba templates are under Creative Commons Attribution 3.0 unported.
+
+CHANGE LOG
+----------
+
+Version 2.0
+* Add more list and bullets icons.
+* Upgrade FontAwesome icon fonts to 4.3.0.
+* Now icon in list come with ":before" in CSS.
+* Remove some unused CSS styling in Skins CSS files.
