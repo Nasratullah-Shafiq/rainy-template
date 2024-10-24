@@ -1,0 +1,109 @@
+/* Main Style */
+.switcher h3 {
+	font-size:13px;
+	margin: 1px 0 3px 0;
+	color:#fff;
+}
+
+.switcher {
+    background: #000;
+	background:rgba(0, 0, 0, 0.85);
+	width:255px;
+	position:fixed;
+	top:117px;
+	z-index:999;
+	left:0px;
+	border-radius: 0 0 4px 0;
+	font-family: 'TitilliumText22LMedium', Arial, sans-serif;
+	-webkit-box-shadow:  0px 0px 4px 0px rgba(51, 51, 51, 0.4);
+	box-shadow:  0px 0px 4px 0px rgba(51, 51, 51, 0.4);
+}
+
+.switcher h2 {
+	background:#000;
+	color: #FFFFFF;
+	padding: 0;
+	margin:0;
+	font-size: 15px;
+	padding: 5px 0 6px 15px;
+}
+
+.switcher h2 a {
+	background: url("icons/switcher.png") no-repeat scroll 4px center #000;
+	display: block;
+	height: 41px;
+	position: absolute;
+	right: -39px;
+	text-indent: -9999px;
+	top: 0;
+	width: 39px;
+	border-radius: 0 4px 4px 0;
+    outline:none;
+}
+
+.switcher .content {
+	padding:5px 16px 16px 16px;
+	overflow:hidden;
+}
+
+.hide {
+	display:none; /* first load page enough */
+}
+
+/* Layout Box */
+.layout-switcher {
+	margin:0 0 10px 0;
+	overflow:hidden;
+}
+
+.layout-switcher a.layout {
+	padding: 6px 7px 8px 7px;
+	border-radius: 2px;
+	color: #797878;
+	font-weight: bold;
+	border: 1px solid #AAAAAA;
+	width: 60px;
+	cursor: pointer;
+	float: left;
+	display: block;
+	margin: 0 6px 0 0;
+	text-align: center;
+	background: white;
+}
+
+/* Color Box */
+.switcher-box {
+	height:auto;
+	overflow:hidden;
+	margin-bottom:6px;
+}
+
+.styleswitch {
+	width: 35px;
+    height: 35px;
+	display: block;
+	cursor: pointer;
+	margin: 10px;
+	float:left;
+}
+
+.styleswitch#default   { background-color:#e74c3c; }
+.styleswitch#Strongcyan   { background-color:#1abc9c; }
+.styleswitch#purple   { background-color:#727CB6; }
+.styleswitch#blue { background-color:#3498db; }
+.styleswitch#orange    { background-color:#EF9648; }
+.styleswitch#Moderatered  { background-color:#BE3F47; }
+
+/* Background Box */
+.bg {
+	height:auto;
+	overflow:hidden;
+	margin-bottom:6px;
+}
+
+/* All Mobile Sizes (devices and browser) */
+@media only screen and (max-width: 767px) {
+	.switcher{
+		display:none;
+	}
+}
